@@ -19,8 +19,4 @@ Given a dataflow model, the task is to write a Python script that transitions it
 
 ## Dependencies
 - Python 3.x
-- [Simulator Name] (Replace with the actual simulator name if any specific one is used)
-
-## Notes
-- Ensure you have the required dependencies installed before running the script.
-- For detailed documentation on the dataflow and behavioral models supported, refer to the `docs` directory.
+- Simulator of you choosing
